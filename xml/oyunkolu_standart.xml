@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OyunKolu</title>
+    <link>http://www.oyunkolu.com</link>
+    <description>OyunKolu RSS 2.0</description>
+    <language>tr-TR</language>
+    <pubDate>Mon, 20 Feb 2012 13:16:27 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2012 13:16:27 +0200</lastBuildDate>
+    <item>
+      <title>
+        <![CDATA[Oyunkolu]]>
+      </title>
+      <link>#</link>
+      <description>
+        <![CDATA[Oyunkolu RSS bileşen desteği kaldırılmıştır. Özel reklam istekleriniz için bizimle oyun@cntbilisim.com.tr adresinden irtibata geçebilirsiniz.]]>
+      </description>
+      <pubDate>Tue, 31 Jan 2012 13:15:40 +0200</pubDate>
+      <guid>#</guid>
+    </item>
+  </channel>
+</rss>
